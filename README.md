@@ -8,7 +8,7 @@
 ![Mantle Banner](https://github.com/get-mantle/Mantle/blob/main/Mantle-Banner.png?raw=true)
 
 <p align="center">
-  <a href="https://github.com/get-mantle/Mantle/releases">
+  <a href="https://github.com/Xposed-Modules-Repo/com.mantle/releases/">
     <img src="https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
